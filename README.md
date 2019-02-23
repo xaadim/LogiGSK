@@ -1,4 +1,4 @@
-# LogiGSKd
+# LogiGSK
 
 A Java based software package to control Logitech G series keyboards, the following keyboards are supported:
 
